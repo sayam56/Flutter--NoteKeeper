@@ -1,6 +1,6 @@
 # noteKeeper
 
-A new Flutter project.
+A Flutter note taking application built with flutter that utilizes SQlite and taches CRUD operation from SQlite database.
 
 ## Getting Started
 
