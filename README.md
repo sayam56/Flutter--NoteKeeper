@@ -2,14 +2,8 @@
 
 A Flutter note taking application built with flutter that utilizes SQlite and taches CRUD operation from SQlite database.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# App Demo
+<p align="center"><img src="notekeeper.gif"/></p>
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
